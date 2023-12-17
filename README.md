@@ -14,7 +14,7 @@ O projeto é um site informativo sobre várias coisas do mundo geek. As principa
   
 #
 <div align="left"> 
-  <strong>📱 Telas do App:</strong>
+  <strong>📱 Telas do Site:</strong>
 </div>
 </br>
 <div align="left">  
