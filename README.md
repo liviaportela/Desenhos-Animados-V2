@@ -8,8 +8,8 @@
 </div>
 
 <div align="justify">
-Projeto desenvolvido individualmente durante o primeiro ano do curso técnico de Desenvolvimento de sistemas, na disciplina de Programação Web(PWEB). Este trabalho visa consolidar e aplicar de forma abrangente as tecnologias aprendidas ao longo do curso, destacando a proficiência em PHP, HTML, JavaScript e CSS.
-O projeto é o website de uma papelaria, ele foi construído com base em um modelo predefinido do Bootstrap, incorporando as melhores práticas de design responsivo e proporcionando uma experiência de usuário fluida. As principais páginas incluem as telas de Home, Produtos, Carrinho, Perfil e Pagamento.
+Projeto desenvolvido individualmente durante primeiro semestre do primeiro ano do curso técnico de Desenvolvimento de Sistemas, na disciplina de Programação Web(PWEB). Este trabalho visa utilizar a estrutura básica do HTML com as tags semânticas.
+O projeto é um site informativo sobre várias coisas do mundo geek. As principais páginas incluem as telas de Home, Desenhos animados e Animes.
 <div>
   
 #
@@ -18,40 +18,29 @@ O projeto é o website de uma papelaria, ele foi construído com base em um mode
 </div>
 </br>
 <div align="left">  
-   <strong>01. Home Page:</strong> Tela que mostra os produtos mais vendidos e as promoções.
+   <strong>01. Home Page:</strong> Tela que mostra as matérias disponíveis e algumas propagandas.
 </div>
 </br>
 
-![image](https://github.com/liviaportela/SitePrettyPaper/assets/115835353/b869791c-e45c-4c24-9ea8-8ce42ebee1cf)
-![image](https://github.com/liviaportela/SitePrettyPaper/assets/115835353/de55a76b-e9ca-4cd9-994a-557ed7b96756)
+![image](https://github.com/liviaportela/Desenhos-Animados-V2/assets/115835353/aa1d824a-2241-410b-a3d6-e5a9dd7fdeca)
+![image](https://github.com/liviaportela/Desenhos-Animados-V2/assets/115835353/8559cec5-32e2-475b-bf26-c0ca5bbfe28f)
 
 <div align="left"> 
-   <strong>02. Products Page:</strong> Tela com todos os produtos disponíveis.
+   <strong>02. Cartoon Page:</strong> Tela com as principais informações sobre 10 Desenhos animados.
 </div>
 </br>
 
-![image](https://github.com/liviaportela/SitePrettyPaper/assets/115835353/03e6f72b-e623-4513-9940-88e300ed4d01)
-![image](https://github.com/liviaportela/SitePrettyPaper/assets/115835353/46790429-478d-4470-93d6-2b3061f6d997)
+![image](https://github.com/liviaportela/Desenhos-Animados-V2/assets/115835353/1359c743-f61f-4f19-8184-3fd999c355ee)
+![image](https://github.com/liviaportela/Desenhos-Animados-V2/assets/115835353/726b4578-2cdf-4a41-9dc0-eff351773aec)
 
 <div align="left"> 
-   <strong>03. Cart Page:</strong> Tela que mostra todos os itens que foram adicionados no carrinho.
+   <strong>03. Anime Page:</strong> Tela com as principais informações sobre 10 Animes.
 </div>
 </br>
 
-![image](https://github.com/liviaportela/SitePrettyPaper/assets/115835353/a98b6290-c2f5-4b3c-b3d2-eaee3c6c99e6)
-<div align="left"> 
-   <strong>04. Profile Page:</strong> Tela que mostra o histórico de compras e permite o logoff.
-</div>
-</br>
+![image](https://github.com/liviaportela/Desenhos-Animados-V2/assets/115835353/e31b0609-a0c6-42a8-8709-4889c970a50b)
+![image](https://github.com/liviaportela/Desenhos-Animados-V2/assets/115835353/bdb5acab-6c62-4c28-9ef5-6d75c0d146f6)
 
-![image](https://github.com/liviaportela/SitePrettyPaper/assets/115835353/8472980b-c736-4af5-b092-5a72b04f2948)
-
-<div align="left"> 
-   <strong>05. Payment Page:</strong> Tela para realizar o pagamento e finalizar a compra.
-</div>
-</br>
-
-![image](https://github.com/liviaportela/SitePrettyPaper/assets/115835353/ebe9da3e-0f78-43fc-aa82-ac2cfc2d3ab0)
 #
 
 <div align="center">  
@@ -62,10 +51,7 @@ O projeto é o website de uma papelaria, ele foi construído com base em um mode
  <tr>
   <td>HTML</td>  
   <td>CSS</td>
-  <td>PHP</td>
-  <td>JavaScript</td>
-  <td>Canva</td>
  </tr>
 </table>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c74dc&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=969595&height=120&section=footer"/>
